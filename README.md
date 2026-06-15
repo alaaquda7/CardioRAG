@@ -34,6 +34,32 @@ Every decision was made intentionally — not copied from a tutorial.
 
 ---
 
+# Data
+
+This project uses 25 peer-reviewed cardiology papers.
+
+## Sources
+
+### ESC Guidelines (5 papers)
+- Heart Failure Guidelines 2023 — escardio.org
+- Acute Coronary Syndromes 2023 — escardio.org
+- Hypertension Guidelines 2024 — escardio.org
+- Atrial Fibrillation Guidelines 2024 — escardio.org
+- Cardiovascular & Diabetes 2023 — escardio.org
+
+### PubMed Central (12 papers)
+- Search: pubmed.ncbi.nlm.nih.gov/pmc
+- Filter: Free Full Text + 2021-2024
+- Topics: Troponin, Heart Failure, MI, Cardiac Imaging
+
+### ArXiv (8 papers)
+- Search: arxiv.org
+- Topics: AI in ECG, Deep Learning Cardiology, NLP Clinical Notes
+
+
+---
+
+
 ## The Challenge: Why Medical RAG is Hard
 
 Building RAG on medical text is not the same as building it on general documents:
