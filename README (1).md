@@ -222,8 +222,8 @@ Built following [LangChain Official RAG Documentation](https://docs.langchain.co
 
 ## Author
 
-**[Your Name]**  
+**Alaa ALQudah**  
 AI & Robotics Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alaa-qudah-2444ba344?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![GitHub](https://github.com/alaaquda7)
